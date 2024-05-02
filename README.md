@@ -4,7 +4,7 @@ A docker server profiling configuration based on the docker or the pod ip addres
 
 To not to kill the process to show the plot like did in the image, you can put a sleep command and that will automatically stop the system lag after the sleep and will produce the plot. Let me know if you find it difficult and i will put that one also. 
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
